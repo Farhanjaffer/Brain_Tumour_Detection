@@ -25,8 +25,5 @@ This repository contains an end-to-end solution for detecting brain tumors using
 3. **Inference:** Utilize the trained model for inference by loading it into the inference module. Provide input images to generate predictions.
 4. **Evaluation:** Evaluate the performance of the model using evaluation metrics and visualize the results using the provided visualization tools.
 
-## Contributions
-Contributions to this project are welcome! Feel free to submit pull requests for bug fixes, feature enhancements, or documentation improvements.
-
 ## License
 This project is licensed under the MIT License.
